@@ -145,7 +145,7 @@
     "amphtml-validator": "1.0.38",
     "async-sema": "3.0.1",
     "babel-plugin-react-compiler": "19.0.0-beta-e552027-20250112",
-    "browserslist": "4.22.2",
+    "browserslist": "4.28.7",
     "buffer": "5.6.0",
     "cheerio": "0.22.0",
     "cookie": "0.4.1",
@@ -279,7 +279,7 @@
   "pnpm": {
     "overrides": {
       "webpack": "5.98.0",
-      "browserslist": "4.22.2",
+      "browserslist": "4.28.7",
       "caniuse-lite": "1.0.30001579",
       "@types/node": "20.17.6",
       "@babel/core": "7.22.5",
